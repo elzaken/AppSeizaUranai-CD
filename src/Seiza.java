@@ -25,6 +25,7 @@ public class Seiza {
 
 	public static void aries(int num){
 		//牡羊座
+
 		switch(num){
 		case 1:
 			System.out.println("1位だよ！");
